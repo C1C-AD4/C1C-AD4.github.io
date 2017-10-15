@@ -7,14 +7,14 @@ categories: misc
 
 <h1>Welcome</h1>
 
-<h3>So I started this blog. Whats it for? for my journey learning as much as I can programming, but why?</h3>
+<h4>So I started this blog. Whats it for? for my journey learning as much as I can programming, but why?</h4>
 <p>As of late i've done a bit of research (very lightly) into programming and I found that its very similar to the field that I work in. I can't say what that is, but I can say that information is spread in different thicknesses. By that I mean, you can look up something simple and it'll be easy to find information on, then look up something tough and find more information easily, then when you go to search for some other easy thing, theres suddenly little no documentation floating around. It seems like there is usually some beginner information and basics, and then the hard documentation for the seasoned veterans, but nothing to bridge them, a big intermediate gap, so many beginners end up stuck in limbo where they know some stuff but can't go any further. This isn't true for everything, some stuff is very well documented, but other stuff isn't.</p>
 <p>Take for example Assembly. Theres books and resources by the truckload for learning NASM on linux. Less so for learning NASM with windows, and barely anything useful for a beginner regarding FASM. Sometimes problems are just impractical to word for a simple search, and some people just like to get as many angles on a subject as possible.</p>
 
-<h3>So what are it be do?</h3>
+<h4>So what are it be do?</h4>
 <p>The blog will basically be my whole learning curve in all of the languages that I touch. So I will start off writing in the basic tips I've learned so far and why I do them. Then as I learn more I will blog about what I've learnt. When I get to a point where I'm "sitting comfortably" within a language, I will only, from that point on, post about any experimental stuff or anything big and new I learn in that language and my focus will be shifted to another language/library etc. My goal is to build this in such a way that anyone following a single languages posts from beginning to end will have a thin layer of understanding of the whole language, and be able to build on each section in their own time with other resources.</p>
 
-<h3>So in summary:</h3>
+<h4>So in summary:</h4>
 <p>I'm fully aware that probably no one will read my blog, but it's a place I can put my jottings down. Sometimes I struggle to grasp a concept, but as soon as I explain it to someone else (whether there's anyone there to hear it or not!) I suddenly get it on a new level and it really grounds in my own understanding. On the off-chance that someone does run into a problem that I've ran into, or if I get some gems from programmer friends that should absolutely be out there for all to learn from, at least this blog will have been some use.</p>
 
 <p>Side-note: The writing may be a little messy at times, or the page may just look ugly on the html side. I'll be trying to keep it neat and attractive but sometimes I just need to pry my skull open and spill everything onto the page.</p>
