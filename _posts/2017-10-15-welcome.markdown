@@ -5,6 +5,8 @@ date:   2017-10-15 03:48:13 +0100
 categories: misc
 ---
 
+<link rel="stylesheet" href="../styles.css">
+
 <h1>Welcome</h1>
 
 <h4>So I started this blog. Whats it for? for my journey learning as much as I can programming, but why?</h4>
